@@ -1,0 +1,25 @@
+---
+origin: "NETHERLANDS"
+price:
+  amount: 4.5
+  currency: "EUR"
+packDiscount:
+  amount: 2
+  currency: "EUR"
+---
+origin: "GERMANY"
+price:
+  amount: 3.5
+  currency: "EUR"
+packDiscount:
+  amount: 1
+  currency: "EUR"
+---
+origin: "BELGIUM"
+price:
+  amount: 5.0
+  currency: "EUR"
+packDiscount:
+  amount: 3
+  currency: "EUR"
+
